@@ -40,6 +40,3 @@ Agronome · Chercheur en écologie appliquée · Junior data scientist
 
 
 
-
-## 📂 Structure du dépôt
-
