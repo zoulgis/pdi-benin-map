@@ -205,12 +205,12 @@
         <script src="data/basepdi_3.js"></script>
         <script src="data/departementnational_4.js"></script>
         <script>
-       var bounds = [[6.2, 0.7], [12.6, 4.1]];  // Limites du Bénin
+       var bounds = [[4.5, -1.0], [14.0, 5.5]];  // Limites du Bénin
 
 var map = L.map('map', {
     zoomControl: false,
     maxZoom: 12,        // facultatif : limite le zoom avant
-    minZoom: 6,         // facultatif : limite le zoom arrière
+    minZoom: 5,         // facultatif : limite le zoom arrière
     maxBounds: bounds,  // empêche de sortir du Bénin
     maxBoundsViscosity: 1.0  // effet "élastique" à 100%
 });
