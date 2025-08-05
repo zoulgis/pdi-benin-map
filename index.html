@@ -2,6 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
         <meta name="mobile-web-app-capable" content="yes">
@@ -150,7 +151,30 @@
   border-radius: 6px;
   font-weight: 500;
 }
+        
+@media (max-width: 768px) {
 
+ .leaflet-control-attribution {
+  font-size: 9px !important;
+    padding: 2px 5px !important;
+    margin: 2px !important;
+    line-height: 1.1 !important;
+    max-width: 40% !important;
+    background: rgba(255, 255, 255, 0.8) !important;
+    border-radius: 4px !important;
+  }
+    h1, h2 {
+    font-size: 16px !important;
+    text-align: center !important;
+    margin: 8px 0 !important;
+  }
+ #info-box {
+    font-size: 10px !important;
+    padding: 8px !important;
+    max-width: 30% !important;
+    left: 2.5% !important;
+  }
+}
         </style>
         <title>Cartographie Dynamique des PDI du Bénin</title>
     </head>
