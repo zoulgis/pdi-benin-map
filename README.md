@@ -3,7 +3,7 @@
 Bienvenue sur ce projet de cartographie interactive des **Personnes Déplacées Internes (PDI)** au Bénin. Réalisé par [Zoul-yadeini TABE](https://www.linkedin.com/in/zoultabe), ce projet utilise des technologies SIG et webmapping pour visualiser des données fictives à des échelles multiples (département, commune, localité).
 
 🌐 **Lien vers la carte en ligne** :  
-👉 [Voir la carte interactive](https://joker00229.github.io/pdi-benin-map/) *(ou le lien correspondant à ton futur username)*
+👉 [Voir la carte interactive](https://joker00229.github.io/pdi-benin-map/) 
 
 ---
 
